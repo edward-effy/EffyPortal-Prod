@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e04801a7.css",
+    "main.js": "/static/js/main.cff69a0b.js",
+    "static/media/Carnival.png": "/static/media/Carnival.e543ca308cbe1b8b9459.png",
+    "static/media/NCL.png": "/static/media/NCL.84697f6ed1837ba7dd28.png",
+    "index.html": "/index.html",
+    "main.e04801a7.css.map": "/static/css/main.e04801a7.css.map",
+    "main.cff69a0b.js.map": "/static/js/main.cff69a0b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e04801a7.css",
+    "static/js/main.cff69a0b.js"
+  ]
+}
