@@ -195,7 +195,7 @@ const AddModal = ({ closeModal }) => {
   };
 
   const handleSubmit_Add = (event) => {
-    const url = `https://effyaws5.effysystems.com/ccl_post`
+    const url = `https://prod.effysystems.com/ccl_post`
     fetch(url, {
       method: "POST",
       headers: {
